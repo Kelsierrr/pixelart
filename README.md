@@ -26,7 +26,7 @@ Export: HTML Canvas API
 
 Screenshots
 
-docs/pixelartSS.jpeg
+![Editor]docs/pixelartSS.jpeg
 
 Getting Started
 Prerequisites
